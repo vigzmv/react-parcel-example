@@ -1,3 +1,10 @@
+# parcel cahche
+
+.cache
+
+# parcel dist
+dist
+
 # Logs
 logs
 *.log
