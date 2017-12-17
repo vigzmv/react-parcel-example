@@ -1,14 +1,20 @@
 # react-parcel-example
+
 Simplest minimum viable React app example with [Parcel Bundler](https://parceljs.org)
+
+Read the [complete guide on **Medium**](https://blog.vigneshm.com/building-a-reactjs-project-with-parceljs-d88cdd178e50).
 
 ## Getting started
 
 Clone the repository
+
 ```sh
 git clone git@github.com:vigzmv/react-parcel-example.git
 cd react-parcel-example
 ```
+
 Install dependencies and start the server
+
 ```sh
 npm install
 npm start
